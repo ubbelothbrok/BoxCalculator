@@ -21,7 +21,7 @@ int main() {
     Box myBox(length, width, height, weight);
 
     // Output the calculated area and volume
-    std::cout << "\n--- Box Calculations ---" << std::endl;
+    std::cout << "\n--- Box Calculations ---\n" << std::endl;
     std::cout << "Surface Area: " << myBox.calcArea() << std::endl;
     std::cout << "Volume:       " << myBox.calcVolume() << std::endl;
     std::cout << "Weight:       " << myBox.getWeight() << std::endl;
