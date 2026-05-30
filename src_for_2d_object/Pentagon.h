@@ -8,7 +8,7 @@ private:
 public:
     Pentagon(float s, float m);
 
-    float area() const;
-    float perimeter() const;
-    float areaDensity() const;
+    float area();
+    float perimeter();
+    float areaDensity();
 };

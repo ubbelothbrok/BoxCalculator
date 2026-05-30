@@ -9,5 +9,5 @@ g++ src_for_2d_object/Object2D.cpp src_for_2d_object/main.cpp -o calc_2d && ./ca
 ## Build & Run 3D Object Calculator
 Navigate to the root directory and run:
 ```bash
-g++ src_for_3d_object/Object3D.cpp src_for_3d_object/main.cpp -o calc_3d && ./calc_3d
+g++ src_for_3d_object/*.cpp -o calc_3d && ./calc_3d
 ```
