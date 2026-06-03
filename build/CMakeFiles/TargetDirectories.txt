@@ -1,3 +1,0 @@
-/Users/ubbe/Documents/BoxCalculator/build/CMakeFiles/box_calculator.dir
-/Users/ubbe/Documents/BoxCalculator/build/CMakeFiles/edit_cache.dir
-/Users/ubbe/Documents/BoxCalculator/build/CMakeFiles/rebuild_cache.dir
